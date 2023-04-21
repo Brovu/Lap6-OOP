@@ -1,0 +1,12 @@
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\bin\Debug\Lap6.1-HuynhLeAnhVu.exe.config
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\bin\Debug\Lap6.1-HuynhLeAnhVu.exe
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\bin\Debug\Lap6.1-HuynhLeAnhVu.pdb
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6.1-HuynhLeAnhVu.csproj.AssemblyReference.cache
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6.1-HuynhLeAnhVu.csproj.SuggestedBindingRedirects.cache
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6._1_HuynhLeAnhVu.Form1.resources
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6._1_HuynhLeAnhVu.Properties.Resources.resources
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6.1-HuynhLeAnhVu.csproj.GenerateResource.cache
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6.1-HuynhLeAnhVu.csproj.CoreCompileInputs.cache
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6.1-HuynhLeAnhVu.exe
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6.1-HuynhLeAnhVu.pdb
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6._1_HuynhLeAnhVu.Form6_2.resources
