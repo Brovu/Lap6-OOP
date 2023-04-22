@@ -83,7 +83,7 @@
             this.btnSum.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnSum.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSum.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.btnSum.Location = new System.Drawing.Point(162, 210);
+            this.btnSum.Location = new System.Drawing.Point(94, 213);
             this.btnSum.Name = "btnSum";
             this.btnSum.Size = new System.Drawing.Size(39, 23);
             this.btnSum.TabIndex = 6;
@@ -97,7 +97,7 @@
             this.btnClose.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnClose.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClose.ForeColor = System.Drawing.Color.Fuchsia;
-            this.btnClose.Location = new System.Drawing.Point(579, 206);
+            this.btnClose.Location = new System.Drawing.Point(511, 209);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(72, 27);
             this.btnClose.TabIndex = 11;
@@ -112,7 +112,7 @@
             this.label4.ForeColor = System.Drawing.Color.Red;
             this.label4.Location = new System.Drawing.Point(0, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(800, 60);
+            this.label4.Size = new System.Drawing.Size(614, 60);
             this.label4.TabIndex = 12;
             this.label4.Text = "CÁC PHÉP TOÁN SỐ HỌC";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -146,7 +146,7 @@
             this.btnChia.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnChia.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnChia.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.btnChia.Location = new System.Drawing.Point(403, 210);
+            this.btnChia.Location = new System.Drawing.Point(335, 213);
             this.btnChia.Name = "btnChia";
             this.btnChia.Size = new System.Drawing.Size(39, 23);
             this.btnChia.TabIndex = 16;
@@ -160,7 +160,7 @@
             this.btnClear.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClear.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.btnClear.Location = new System.Drawing.Point(500, 210);
+            this.btnClear.Location = new System.Drawing.Point(432, 213);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(39, 23);
             this.btnClear.TabIndex = 17;
@@ -174,7 +174,7 @@
             this.btnNhan.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnNhan.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNhan.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.btnNhan.Location = new System.Drawing.Point(319, 210);
+            this.btnNhan.Location = new System.Drawing.Point(251, 213);
             this.btnNhan.Name = "btnNhan";
             this.btnNhan.Size = new System.Drawing.Size(39, 23);
             this.btnNhan.TabIndex = 18;
@@ -188,7 +188,7 @@
             this.btnTru.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnTru.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTru.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.btnTru.Location = new System.Drawing.Point(237, 210);
+            this.btnTru.Location = new System.Drawing.Point(169, 213);
             this.btnTru.Name = "btnTru";
             this.btnTru.Size = new System.Drawing.Size(39, 23);
             this.btnTru.TabIndex = 19;
@@ -202,7 +202,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.CancelButton = this.btnClose;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(614, 269);
             this.Controls.Add(this.btnTru);
             this.Controls.Add(this.btnNhan);
             this.Controls.Add(this.btnClear);
@@ -220,7 +220,7 @@
             this.ForeColor = System.Drawing.Color.MediumTurquoise;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "Form1";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.WindowsDefaultBounds;
             this.Text = "Tính Toán";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);

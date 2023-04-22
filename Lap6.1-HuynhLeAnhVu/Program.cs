@@ -16,7 +16,7 @@ namespace Lap6._1_HuynhLeAnhVu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form6_2());
+            Application.Run(new Menu());
         }
     }
 }

@@ -10,3 +10,5 @@ D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6.1-HuynhLeAnhVu.csproj.
 D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6.1-HuynhLeAnhVu.exe
 D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6.1-HuynhLeAnhVu.pdb
 D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6._1_HuynhLeAnhVu.Form6_2.resources
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6._1_HuynhLeAnhVu.Login.resources
+D:\Lap6.1-HuynhLeAnhVu\Lap6.1-HuynhLeAnhVu\obj\Debug\Lap6._1_HuynhLeAnhVu.Menu.resources
