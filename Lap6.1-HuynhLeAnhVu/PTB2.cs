@@ -26,7 +26,7 @@ namespace Lap6._1_HuynhLeAnhVu
 
             if (delta < 0)
             {
-                throw new InvalidOperationException("Phương trình vô nghiệm");
+                throw new InvalidOperationException("Vo nghiem");
             }
             else if (delta == 0)
             {

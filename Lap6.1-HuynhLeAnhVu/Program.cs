@@ -16,7 +16,8 @@ namespace Lap6._1_HuynhLeAnhVu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Menu());
+            //Application.Run(new Menu());
+            Application.Run(new PhoneForm());
         }
     }
 }

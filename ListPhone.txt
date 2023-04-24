@@ -1,0 +1,9 @@
+2
+01
+Samsung
+9000
+D:\\Phone\\samsung.jpg
+02
+Samsung A20s
+12000
+D:\\Phone\\a20s.jpg
