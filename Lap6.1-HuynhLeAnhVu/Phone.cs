@@ -9,15 +9,15 @@ namespace Lap6._1_HuynhLeAnhVu
     public class Phone: IComparable<Phone>
     {
        public String ID;
-       public String branch;
+       public String brand;
        public int giaNhap;
        public String pic;
 
         public Phone() { }
-        public Phone(string ID, string branch, int giaNhap, string pic)
+        public Phone(string ID, string brand, int giaNhap, string pic)
         {
             this.ID = ID;
-            this.branch = branch;
+            this.brand = brand;
             this.giaNhap = giaNhap;
             this.pic = pic;
         }
@@ -26,7 +26,7 @@ namespace Lap6._1_HuynhLeAnhVu
         {
             double giaBan;
            
-            if(branch == "Iphone")
+            if(brand == "Iphone")
             {
                 giaBan = 1.5 * giaNhap;
             } else {
@@ -39,7 +39,7 @@ namespace Lap6._1_HuynhLeAnhVu
 
         public int CompareTo(Phone p)
         {
-            return calculatePrice().CompareTo(p.calculatePrice()) * -1;
+            return giaNhap.CompareTo(p.giaNhap) * -1;
         }
 
        
